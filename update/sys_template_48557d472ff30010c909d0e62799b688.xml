@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>true</global>
+        <group/>
+        <link_element/>
+        <name>Zylab Index Work</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>Zylab Index Work</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-31 13:09:43</sys_created_on>
+        <sys_id>48557d472ff30010c909d0e62799b688</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Zylab Index Work</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_template_48557d472ff30010c909d0e62799b688</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-15 11:06:34</sys_updated_on>
+        <table>sc_task</table>
+        <template>short_description=Zylab, create new index for quarter^description=Zylab, create new index for quarter - archive old indexes if required and reorganise web portal&#13;
+&#13;
+Please assign to SysAdmin&#13;
+&#13;
+Instructions on how to create the index below:&#13;
+&#13;
+http://gblwspt03pv/GIS/Infra/WE/Shared Documents/ZyLab/Zylab_New Indexes.docx&#13;
+^opened_by=62826bf03710200044e0bfc8bcbe5df1^assignment_group=db53580b0a0a0a6501aa37c294a2ba6b^assigned_to=f298d2d2c611227b0106c6be7f154bc8^request.requested_for=62826bf03710200044e0bfc8bcbe5df1^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>
